@@ -65,6 +65,7 @@ section.imagem{
     background-position: left center;
     background-size: cover;
     background-attachment: fixed;
+    width: 100vw;
 }
 section.imagem >p{
     display: inline-block;
